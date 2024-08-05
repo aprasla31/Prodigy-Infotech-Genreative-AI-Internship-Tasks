@@ -44,9 +44,7 @@ STEP 3 : AFTER THAT, CLICK ON THE T4 GPU AND SELECT SAVE TO SAVE THIS SETTING.
 # Task 3
 ## What is Markov Chain?
 
-### Markov Chain is a stochastic model which uses the mathematics to predict the probability of future events based on previous event.
-### The example that everyone gives of a Markov chain in action is Google predicting what word your going to type next when you are
-### typing an email,based upon the perhaps half-typed sentence right before it.
+### Markov Chain is a stochastic model which uses the mathematics to predict the probability of future events based on previous event. The example that everyone gives of a Markov chain in action is Google predicting what word your going to type next when you are typing an email,based upon the perhaps half-typed sentence right before it.
 
 ## What are transition in Markov Chain model?
 
