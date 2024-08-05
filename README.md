@@ -56,5 +56,12 @@ STEP 3 : AFTER THAT, CLICK ON THE T4 GPU AND SELECT SAVE TO SAVE THIS SETTING.
 #### The dict from the above example in this case consists of a key value pair where values are dictionaries and these map to 
 #### what all words can be used as next word with their corresponding probaility.
 
+## For example
+```bash
+'the': {'small': 0.5, 'lazy': 0.5}
+```
+### This means that if the current word is 'the', there is a 50% chance (0.5 probability) that the next word will be 'small', and a 50% chance that the next word will be 'lazy'
+
+### This transitions dictionary represents a simple example of a Markov chain model for generating sentences like "The small brown dog jumped over the lazy cat." The model captures the transition probabilities between words, allowing for the generation of new sentences based on the provided probabilities.
 
 ## KINDLY PERFORM THIS TASK IN JUPYTER NOTEBOOK.
