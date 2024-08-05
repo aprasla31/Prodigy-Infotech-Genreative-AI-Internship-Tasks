@@ -43,15 +43,21 @@ STEP 3 : AFTER THAT, CLICK ON THE T4 GPU AND SELECT SAVE TO SAVE THIS SETTING.
 
 # Task 3
 ## What is Markov Chain?
-```bash
-Markov Chain is a stochastic model which uses the mathematics to predict the probability of future events based on previous event.
-The example that everyone gives of a Markov chain in action is Google predicting what word your going to type next when you are
-typing an email,based upon the perhaps half-typed sentence right before it.
-```
-## Usage
-```bash
-The usage of transformers and datasets, particularly in the context of machine learning and natural language processing (NLP), 
-has become increasingly popular due to the efficiency and effectiveness of these tools
-```
+
+### Markov Chain is a stochastic model which uses the mathematics to predict the probability of future events based on previous event.
+### The example that everyone gives of a Markov chain in action is Google predicting what word your going to type next when you are
+### typing an email,based upon the perhaps half-typed sentence right before it.
+
+## What are transition in Markov Chain model?
+
+### Here, transitions is a dictionary defined in the provided code which acts like Markov chain model to predict next generation of text. 
+### Language Model: Determines the probabilities of transitioning from one word to another in a continuous language
+
+### Dictionary breakdown
+
+#### The keys are the current words or states in the markov chain.
+#### The dict from the above example in this case consists of a key value pair where values are dictionaries and these map to 
+#### what all words can be used as next word with their corresponding probaility.
+
 
 ## KINDLY PERFORM THIS TASK IN JUPYTER NOTEBOOK.
