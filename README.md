@@ -48,8 +48,7 @@ STEP 3 : AFTER THAT, CLICK ON THE T4 GPU AND SELECT SAVE TO SAVE THIS SETTING.
 
 ## What are transition in Markov Chain model?
 
-### Here, transitions is a dictionary defined in the provided code which acts like Markov chain model to predict next generation of text. 
-### Language Model: Determines the probabilities of transitioning from one word to another in a continuous language
+### Here, transitions is a dictionary defined in the provided code which acts like Markov chain model to predict next generation of text. Language Model: Determines the probabilities of transitioning from one word to another in a continuous language
 
 ### Dictionary breakdown
 
